@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://wakatime.com/share/@JonathanMartins/bbc5107f-62dc-432f-a5ab-be1d2d8064d9.svg)
 
 <!--
 **JonathanCosta/JonathanCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
